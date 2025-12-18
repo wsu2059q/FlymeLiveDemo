@@ -21,5 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "FlymeLiveDemo"
 include(":app")
-include(":FlymeLive")
- 
