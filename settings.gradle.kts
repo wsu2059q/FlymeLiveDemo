@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FlymeLiveNotice"
+rootProject.name = "FlymeLiveDemo"
 include(":app")
 include(":FlymeLive")
  
